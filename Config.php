@@ -3,7 +3,7 @@
 $host = '127.0.0.1:3307';
 $db   = 'quizzeo';
 $user = 'root';
-$pass = 'Adil2005#';
+$pass = 'ton mot de passe';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
